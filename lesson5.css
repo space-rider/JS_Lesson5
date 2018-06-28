@@ -1,0 +1,91 @@
+﻿body {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: yellow;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    text-align: left;
+    padding: 20px 20px;
+    margin: 0;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
+}
+
+h2 {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    text-align: left;
+    padding: 10px 10px;
+    margin: 0;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
+}
+
+h3 {
+    font-size: 1.8em;
+}
+
+p {
+    padding: 10px 10px;
+    font-size: 21px;
+}
+
+pre {
+    color: lightcoral;
+    width: 90%;
+    padding: 10px;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+}
+
+hr {
+    margin: 0px 25px;
+}
+
+#box {
+    margin: 10px 10px;
+    background-color: ghostwhite;
+}
+
+.block__title {
+    padding: 5px 10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+}
+
+.first__block:hover {
+    background-color: aqua;
+    cursor: pointer;
+}
+
+.bonus__block:hover {
+    background-color: yellow;
+    cursor: pointer;
+}
+
+.back {
+    width: 130px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color:black;
+    padding: 10px 15px;
+    margin-left: 15px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.back:hover {
+    background-color: yellowgreen;
+    color: black;
+    cursor: pointer;
+}

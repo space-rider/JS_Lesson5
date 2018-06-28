@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{331CC98A-60D7-46FB-B620-B96683A7AA1E}"
+	ProjectSection(SolutionItems) = preProject
+		bonus_page.html = bonus_page.html
+		first_page.html = first_page.html
+		index.html = index.html
+		lesson5.css = lesson5.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D237A307-DC89-4784-9801-9B23F8360674}
+	EndGlobalSection
+EndGlobal
